@@ -83,9 +83,6 @@ The set of all dynamical primes forms a *prime continuum* – a measurable space
 
 ## Examples
 
-### Lorenz Attractor
-![Lorenz Prime Decomposition](examples/lorenz_primes.png)
-
 ### Logistic Map Bifurcation
 ```python
 # Analyze Feigenbaum scaling
